@@ -357,16 +357,7 @@ extern "C" void* ThreadStats(void*) {
 }
 
 static const string mainnet_seeds[] = {
-  "bwk1.masterhash.us:52543", 
-  "bwk2.masterhash.us:52543", 
-  "bwk3.masterhash.us:52543", 
-  "bwk4.masterhash.us:52543", 
-  "bwk5.masterhash.us:52543", 
-  "bwk6.masterhash.us:52543", 
-  "bwk7.masterhash.us:52543", 
-  "bwk8.masterhash.us:52543", 
-  "bwk9.masterhash.us:52543", 
-  "bwk10.masterhash.us:52543", 
+  "bwkseed.penple.org", 
   ""
 };
 static const string testnet_seeds[] = {"bulwark-test-node08.ssus.tech", "bulwark-test-node09.ssus.tech", ""};
